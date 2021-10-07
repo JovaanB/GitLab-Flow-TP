@@ -1,1 +1,1 @@
-GitLab Flow
+GitLab Flow sample
